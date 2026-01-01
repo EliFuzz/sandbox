@@ -1,0 +1,15 @@
+# Node.js
+node_modules
+dist
+
+# Logs
+logs
+*.log
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+#IDE
+.vscode
