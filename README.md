@@ -25,8 +25,8 @@ vsbx --settings <file> <command>  # Custom config
 ### Node.js Library
 
 ```javascript
-import { type SandboxRuntimeConfig } from "@/core/sandbox/sandbox-config";
-import { SandboxManager } from "@/core/manager/sandbox-manager";
+import { type SandboxRuntimeConfig } from "vsbx/core/sandbox/sandbox-config";
+import { SandboxManager } from "vsbx/core/manager/sandbox-manager";
 import { spawn } from "node:child_process";
 
 const config: SandboxRuntimeConfig = {
