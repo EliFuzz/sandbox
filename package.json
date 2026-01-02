@@ -1,6 +1,6 @@
 {
   "name": "vsbx",
-  "version": "0.0.27",
+  "version": "0.0.28",
   "description": "Sandbox - agentic (AI Agent) safe code execution with network and filesystem restrictions",
   "type": "module",
   "main": "./dist/index.js",
