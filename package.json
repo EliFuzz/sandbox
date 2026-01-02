@@ -55,10 +55,10 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EliFuzz/sandbox.git"
+    "url": "git+https://github.com/EliFuzz/vsbx.git"
   },
   "bugs": {
-    "url": "https://github.com/EliFuzz/sandbox/issues"
+    "url": "https://github.com/EliFuzz/vsbx/issues"
   },
-  "homepage": "https://github.com/EliFuzz/sandbox#readme"
+  "homepage": "https://github.com/EliFuzz/vsbx#readme"
 }
